@@ -135,3 +135,31 @@ dfNacidosClean.select(
 
 ## 11. Conclusión
 Este análisis inicial establece las bases para profundizar en temas de salud materno-infantil en Ecuador. Spark permite escalar el procesamiento sobre grandes volúmenes de datos, y este script demuestra un uso eficaz de herramientas como `describe`, `summary`, `withColumn`, y `select`.
+
+# Analisís 2
+## Estado Civil
+### Distribución por estado civil
+
+| Estado Civil   | Recién nacidos |
+| -------------- | -------------- |
+| Soltera        | 139,799        |
+| Casada         | 56,893         |
+| Unida          | 32,470         |
+| Unión de hecho | 5,489          |
+| Divorciada     | 4,510          |
+
+Se observa que más de la mitad de los nacimientos registrados en Ecuador durante 2023 provienen de madres solteras (58%). Esto puede reflejar tanto cambios culturales como posibles desafíos sociales en el acompañamiento prenatal. Deberiamos realizar un cruce con las variables como la edad materna, la ubicacion geólogica de las madres y el nivel de instrucción
+
+## Etnia de las madres
+### Distribución por grupo étnico
+| Etnia                              | Recién nacidos |
+| ---------------------------------- | -------------- |
+| Mestiza                            | 210,051        |
+| Indígena                           | 14,289         |
+| Sin información                    | 7,241          |
+| Afroecuatoriana / Afrodescendiente | 2,747          |
+| Negra                              | 2,634          |
+
+
+El 87% de los nacimientos provienen de madres que se identifican como mestizas, lo cual concuerda con la distribución étnica general del país. Sin embargo, se detecta un 3% de registros sin información étnica, lo que sugiere un área de mejora en la calidad de los datos. Podemos buscar relaciones con la zona de las madres, ya sea rural o urbana y tambien podriamos ver en que institución el niño fue dado a luz, publica, privada, en casa, etc
+
