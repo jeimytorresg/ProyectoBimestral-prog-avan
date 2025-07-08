@@ -163,3 +163,54 @@ Se observa que más de la mitad de los nacimientos registrados en Ecuador durant
 
 El 87% de los nacimientos provienen de madres que se identifican como mestizas, lo cual concuerda con la distribución étnica general del país. Sin embargo, se detecta un 3% de registros sin información étnica, lo que sugiere un área de mejora en la calidad de los datos. Podemos buscar relaciones con la zona de las madres, ya sea rural o urbana y tambien podriamos ver en que institución el niño fue dado a luz, publica, privada, en casa, etc
 
+
+## Nivel de Alfabetización de las Madres
+### Distribución por nivel de alfabetización
+| Sabe Leer       | Recién nacidos |
+|-----------------|----------------|
+| Sí              | 239,519        |
+| No              | 1,301          |
+| Sin información | 475            |
+
+El 99.4% de los nacimientos provienen de madres que declararon saber leer, lo cual refleja una cobertura amplia en alfabetización femenina.  
+Sin embargo, existen 1,301 casos (aproximadamente 0.5%) de madres que no saben leer, un grupo minoritario pero relevante desde una perspectiva de política pública.  
+Además, hay 475 registros sin información, lo que representa oportunidades de mejora en la recolección de datos.  
+
+Para tener una imagen más completa de la alfabetización de las madres, proponemos combinar estos datos con información sobre su **nivel educativo** y su **lugar de residencia**. Así podremos descubrir si existen patrones, por ejemplo, si la falta de alfabetización es más común en ciertas regiones o entre madres con menor nivel de estudios, lo que nos daría pistas importantes para futuras intervenciones.
+
+
+## Provincias de Residencia
+### Distribución por provincia de residencia
+| Provincia                            | Nacimientos |
+|--------------------------------------|-------------|
+| Guayas                               | 62,640      |
+| Pichincha                            | 34,259      |
+| Manabí                               | 24,423      |
+| Los Ríos                             | 15,233      |
+| Esmeraldas                           | 11,324      |
+| El Oro                               | 9,982       |
+| Azuay                                | 9,645       |
+| Santo Domingo de los Tsáchilas      | 8,430       |
+| Tungurahua                           | 6,855       |
+| Santa Elena                          | 6,547       |
+| Cotopaxi                             | 6,499       |
+| Imbabura                             | 6,069       |
+| Chimborazo                           | 6,038       |
+| Loja                                 | 5,974       |
+| Morona Santiago                      | 4,440       |
+| Orellana                             | 3,742       |
+| Sucumbíos                            | 3,721       |
+| Cañar                                | 3,251       |
+| Napo                                 | 2,878       |
+| Bolívar                              | 2,529       |
+| Pastaza                              | 2,244       |
+| Carchi                               | 2,124       |
+| Zamora Chinchipe                     | 1,979       |
+| Galápagos                            | 373         |
+| Exterior                             | 96          |
+ 
+Las provincias con mayor número de nacimientos registrados en 2023 fueron **Guayas** (26%) y **Pichincha** (14%), que coinciden con las zonas más pobladas del país.  
+Este patrón es coherente con la distribución demográfica nacional y puede estar relacionado con el acceso a servicios de salud, urbanización y concentración de hospitales públicos.
+
+Para entender mejor las diferencias en la salud de las madres y sus bebés a lo largo del país, sería muy valioso ver cómo cambian aspectos como el tipo de parto, el origen étnico de la madre o su edad promedio, provincia por provincia. Esto nos ayudaría a identificar dónde hay mayores necesidades y dónde los servicios de salud perinatal podrían mejorar.
+
